@@ -23,4 +23,4 @@ Selamat datang di repositori resmi untuk distribusi aplikasi **Polytron EV**. Re
 - **Kontak & Dukungan**: Jika ada masalah terkait aplikasi, silakan hubungi melalui [me@zekri.id](mailto:me@zekri.id).
 
 ---
-*Dibuat dengan ❤️ oleh Polytron EV Team.*
+*Dibuat Oleh Komunitas PEV RIDER Indonesia.*
