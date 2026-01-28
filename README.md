@@ -22,5 +22,11 @@ Selamat datang di repositori resmi untuk distribusi aplikasi **Polytron EV**. Re
 - **Kontribusi**: Jika Anda adalah kontributor resmi, silakan hubungi tim pengembang melalui sistem internal kami.
 - **Kontak & Dukungan**: Jika ada masalah terkait aplikasi, silakan hubungi melalui [me@zekri.id](mailto:me@zekri.id).
 
+## ☕ Dukungan & Donasi
+
+Pengembangan aplikasi ini dilakukan secara mandiri oleh komunitas. Bagi yang ingin mendukung atau **berdonasi** untuk biaya server dan pengembangan fitur baru, bisa scan QRIS di bawah ini:
+
+![QRIS Donasi](QRIS.jpg)
+
 ---
 *Dibuat Oleh Komunitas PEV RIDER Indonesia.*
