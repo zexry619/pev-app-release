@@ -26,7 +26,7 @@ Selamat datang di repositori resmi untuk distribusi aplikasi **Polytron EV**. Re
 
 Pengembangan aplikasi ini dilakukan secara mandiri oleh komunitas. Bagi yang ingin mendukung atau **berdonasi** untuk biaya server dan pengembangan fitur baru, bisa scan QRIS di bawah ini:
 
-![QRIS Donasi](QRIS.jpg)
+<img src="QRIS.jpg" alt="QRIS Donasi" width="300" />
 
 ---
 *Dibuat Oleh Komunitas PEV RIDER Indonesia.*
